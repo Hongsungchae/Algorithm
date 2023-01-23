@@ -6,6 +6,6 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdtjdco3)](https://solved.ac/ghdtjdco3/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdtjdco3)](https://solved.ac/ghdtjdco3)
 
 </div>
